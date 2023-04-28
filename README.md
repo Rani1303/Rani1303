@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rani1303" alt="rani1303" /></a> </p>
 
-- 🔭 I’m currently working on **Online crime management and public services**
+- 🔭 I’m currently working on **some of my side projects**
 
 - 🌱 I’m currently learning **AI,Django, RestAPI**
 
